@@ -1,4 +1,4 @@
-Project start Nov 2023
+Completed Nov 2023
 
 Left-right outputs the coordinates of the face as seen in the webcam in 2 dimensions. This simpler version is what will be used in the first person dodging game. To smoothen out the jitteriness of the measurements, a dampening is applied so that only movements with a magnitude and speed above a certain threshold will be measured. Otherwise, in the dodging game, the player will see their avatar twitch erratically.
 
